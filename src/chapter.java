@@ -7,4 +7,6 @@ boolean viewed;
 int timeViewed;
 int sessionNumber;
 
+//solo con comentarios___////
+
 }

@@ -10,5 +10,7 @@ String[] authors;
 String isbn;
 boolean readed;
 int timeReaded;
+
+///______solo son comentarios________________________
     
 }

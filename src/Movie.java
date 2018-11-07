@@ -6,7 +6,9 @@ String creator;
 int duration;
 short year;
 boolean viewed;
-int timeViewed;    
+int timeViewed;  
+
+//solo con comentarios___////
 }
 
 

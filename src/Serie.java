@@ -9,7 +9,7 @@ boolean viewed;
 int timeViewed;
 
 int sessionQuantity;
-
+//solo con comentarios___////
 //chapters[]
 
 }

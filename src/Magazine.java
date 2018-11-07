@@ -6,5 +6,7 @@ int id;
 String title;
 Date edititionDate;
 String editorial;
-String[] authors;    
+String[] authors;
+
+//solo son comentarios____________________________________
 }
